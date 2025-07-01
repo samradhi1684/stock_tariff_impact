@@ -24,7 +24,7 @@ This project explores how tariff events impact NIFTY 50 stock prices and sectors
 - Found weak to moderate correlation: some strongly negative sentiment led to stronger market drops.
 
 ### 4. 📘 Summary & Insights (`04_summary.ipynb`)
-- Compiled conclusions and decisions based on data:
+- Compiled conclusions and decisions based on data :
   - **Some sectors like FMCG and Energy remained resilient**.
   - **Market volatility rose post-events**, showing investor uncertainty.
   - Sentiment gives partial but useful context.
